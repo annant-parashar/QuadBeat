@@ -13,5 +13,5 @@
 ## Tech Stack
 
 - **Backend**: Java (Graph algorithms, CLI & Web I/O)
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS, JS
 - **Data Structure**: Graph (Adjacency List/Matrix)
